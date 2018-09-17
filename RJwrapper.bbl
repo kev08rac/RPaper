@@ -1,0 +1,59 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Chen(2012)]{two_param}
+Z.~Chen.
+\newblock \emph{A Flexible Copula Model for Bivariate Survival Data}.
+\newblock PhD thesis, University of Rochester, 2012.
+
+\bibitem[Clayton(1978)]{clayton}
+D.~G. Clayton.
+\newblock A model for association in bivariate life tables and its application
+  in epidemiological studies of familial tendency in chronic disease incidence.
+\newblock \emph{Biometrika}, 65\penalty0 (1):\penalty0 141--151, 1978.
+
+\bibitem[Gumbel(1960)]{gumbel}
+E.~J. Gumbel.
+\newblock Bivariate exponential distributions.
+\newblock \emph{Journal of the American Statistical Association}, 55\penalty0
+  (292):\penalty0 698--707, 1960.
+
+\bibitem[Huang and Rossini(1997)]{univariate_PO_sieve}
+J.~Huang and A.~J. Rossini.
+\newblock Sieve estimation for the proportional-odds failure-time regression
+  model with interval censoring.
+\newblock \emph{Journal of the American Statistical Association}, 92\penalty0
+  (439):\penalty0 960--967, 1997.
+
+\bibitem[Shih and Louis(1995)]{two_stage_right_censor}
+J.~H. Shih and T.~A. Louis.
+\newblock Inferences on the association parameter in copula models for
+  bivariate survival data.
+\newblock \emph{Biometrics}, 51\penalty0 (4):\penalty0 1384--1399, 1995.
+
+\bibitem[Sklar(1959)]{sklar}
+A.~Sklar.
+\newblock Fonctions de repartition a n dimensions et leurs marges.
+\newblock \emph{Publications de L Institut de Statistique de L Universite de
+  Paris}, 8:\penalty0 229--231, 1959.
+
+\bibitem[Sun et~al.(2006)Sun, Wang, and Sun]{two_stage_interval_censor}
+L.~Sun, L.~Wang, and J.~Sun.
+\newblock Estimation of the association for bivariate interval-censored failure
+  time data.
+\newblock \emph{Scandinavian Journal of Statistics}, 33\penalty0 (4):\penalty0
+  637--649, 2006.
+
+\bibitem[Zhou et~al.(2017)Zhou, Hu, and
+  Sun]{frailty_case_II_transformation_sieve}
+Q.~Zhou, T.~Hu, and J.~Sun.
+\newblock A sieve semiparametric maximum likelihood approach for regression
+  analysis of bivariate interval-censored failure time data.
+\newblock \emph{Journal of the American Statistical Association}, 112\penalty0
+  (518):\penalty0 664--672, 2017.
+
+\end{thebibliography}

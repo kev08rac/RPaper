@@ -1,0 +1,50 @@
+\documentclass[a4paper]{report}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{RJournal}
+\usepackage{amsmath,amssymb,array}
+\usepackage{booktabs}
+
+\usepackage{amsmath}
+\usepackage{booktabs}
+\usepackage{rotating}
+\usepackage{multirow}
+\usepackage{graphicx}
+\usepackage{color}
+\usepackage{subcaption}
+\usepackage{cite}
+
+\DeclareMathOperator*{\argmaxA}{arg\max} % Jan Hlavacek
+\DeclareMathOperator*{\argmaxB}{argmax}   % Jan Hlavacek
+\DeclareMathOperator*{\argmaxC}{\arg\max}
+\newcommand{\cs}[1]{\texttt{\symbol{`\\}#1}}
+\captionsetup{compatibility=false}
+
+
+\def\bSig\mathbf{\Sigma}
+\newcommand{\VS}{V\&S}
+\newcommand{\tr}{\mbox{tr}}
+
+%\numberwithin{equation}{section}
+%\theoremstyle{plain}
+%\newtheorem{thm}{Theorem}[section]
+%\newtheorem{proposition}{Proposition}[section]
+%\newtheorem{lem}{Lemma}[section]
+
+%% load any required packages here
+
+\begin{document}
+
+%% do not edit, for illustration only
+\sectionhead{Contributed research article}
+\volume{XX}
+\volnumber{YY}
+\year{20ZZ}
+\month{AAAA}
+
+%% replace RJtemplate with your article
+\begin{article}
+  \input{CopulaTest}
+\end{article}
+
+\end{document}
